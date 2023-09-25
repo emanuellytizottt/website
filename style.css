@@ -1,4 +1,11 @@
-p {
-    text-align: center
-    background: #CCCCCC
-}
+body {
+    background: #cccccc
+ }
+ 
+ p {
+    text-align: center;
+ }
+ 
+ strongh {
+     color: red;
+ }
